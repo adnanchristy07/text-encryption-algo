@@ -1,0 +1,9 @@
+{
+  "alg": "DES",
+  "mode": "CBC",
+  "salt": "u5KoR/xKeKaQIhOnmo3CYA==",
+  "iv": "RzhmEuiGtAw=",
+  "ciphertext": "bsUsEcVBl8+0zpLCGT8y6w==",
+  "kdf": "PBKDF2-SHA256-200k",
+  "padding": "PKCS7"
+}

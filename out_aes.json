@@ -1,0 +1,9 @@
+{
+  "alg": "AES",
+  "mode": "GCM",
+  "salt": "md/ci3epElBBwXWcm0LdZQ==",
+  "nonce": "xo252eTPVEZhMXoWydVBPg==",
+  "ciphertext": "T/7GRtAwStb77+8=",
+  "tag": "qCGC29/19JyOYW/p5CWRCg==",
+  "kdf": "PBKDF2-SHA256-200k"
+}
